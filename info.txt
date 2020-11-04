@@ -1,0 +1,1 @@
+Cuando clono un repositorio de GITHUB remoto, se crea automaticamente una carpeta con el repositorio en local
